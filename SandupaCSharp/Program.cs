@@ -11,7 +11,7 @@ namespace SandupaCSharp
         static void Main(string[] args)
         {
             string CharacterName = "Chris";
-            int CharacterAge = 40;
+            int CharacterAge = 50;
 
             Console.WriteLine("There once was a man named " + CharacterName);
             Console.WriteLine("He was " + CharacterAge + " years old");
